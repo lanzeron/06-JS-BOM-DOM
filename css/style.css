@@ -1,0 +1,15 @@
+div {
+	margin-left: 100px;
+
+}
+
+form {
+	height: 150px;
+	margin-top:  40px;
+	
+}
+label {
+	position: relative;
+	display: block;
+	margin-left: 60px;
+}
